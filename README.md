@@ -64,6 +64,9 @@ This project uses historical market data and does not account for transaction co
 
 ## How to Explore the Project
 
-Open the Jupyter Notebook file in this repository to review the Python code, analysis, visualizations, and findings.
+## Open in Google Colab
+
+[Open the Stock Market Performance Analysis Notebook in Google Colab](https://colab.research.google.com/drive/1vw9cdDFd--flUMYQsogqBfqItJCdGiIk#scrollTo=EuscV4D5OdY2)
+
 
 
